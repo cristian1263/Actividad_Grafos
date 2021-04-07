@@ -1,0 +1,306 @@
+#TituloPagina{
+position: relative;
+left: 450px;
+top:  5px;	
+font-style:italic;
+color: burlywood;
+}
+
+#TextoVertice{
+width: 150px;
+height: 25px;
+text-align: center;
+border-radius: 1px 2px 3px;
+border: 1px solid #000;
+position: relative;
+left: 15px;
+top: 50px;
+font-style:italic;
+background-color: gray;
+}
+
+#TextoOrigen{
+width: 150px;
+height: 25px;
+text-align: center;
+border-radius: 1px 2px 3px;
+border: 1px solid #0000;
+position: relative;
+left: 15px;
+top: 30px;
+font-style:italic;
+background-color: gray;
+}
+#TextoDestino{
+width: 150px;
+height: 25px;	
+text-align: center;
+border-radius: 1px 2px 3px;
+border: 1px solid #000;
+position: relative;
+left: -144px;
+top: 65px;
+font-style:italic;
+background-color: gray;
+}
+#TextoPeso{
+width: 150px;
+height: 25px;
+text-align: center;
+border-radius: 1px 2px 3px;
+border: 1px solid #000;
+position: relative;
+left: -302px;
+top: 100px;
+font-style:italic;
+background-color: gray;
+font-color: white;
+}
+
+#AgregarV{
+width: 150px;
+position: relative;
+left: 18px;
+top: 50px;
+bottom: 20px;
+height: 35px;
+border: 1px solid #000;
+font-style:italic;
+ 
+
+}
+#AgregarA{
+width: 150px;
+position: relative;
+bottom: 20px;
+height: 35px;
+border: 1px solid #000;
+left: -300px;
+top: 65px;	
+font-style:italic;
+}
+#Mostrar{
+width: 150px;
+position: relative;
+bottom: 20px;
+height: 35px;
+border: 1px solid #000;
+left: 500px;
+top: -140px;	
+font-style:italic;
+}
+
+#TituloArista{
+position: relative;
+left: 25px;
+top: 40px;	
+font-style:italic;
+color: burlywood;
+}
+
+#TituloGrafo{
+position: relative;
+left: 25px;
+top: 60px;	
+font-style:italic;
+color: burlywood;
+}
+
+#TextoAdyacente{
+position: relative;
+left: 850px;
+top: 90px;
+width: 150px;
+height: 30px;	
+text-align: center;
+border-radius: 1px 2px 3px;
+border: 1px solid #000;
+font-style:italic;
+background-color: gray;
+}
+ 
+#Adyacentes{
+width: 150px;
+bottom: 20px;
+height: 35px;
+position: relative;
+border: 1px solid #000;
+left: 850px;
+top: 90px;	
+font-style:italic;
+}
+
+#TituloAdyacente{
+position: relative;
+left: 850px;
+top:  90px;
+font-style:italic;
+color: burlywood;	
+}
+
+#TextoGrado{
+width: 150px;
+height: 30px;	
+text-align: center;
+border-radius: 1px 2px 3px;
+border: 1px solid #000;
+position: relative;
+left: 850px;
+top: -200px;
+font-style:italic;
+background-color: gray;
+}
+ 
+#Grado{
+width: 150px;
+position: relative;
+bottom: 20px;
+height: 35px;
+border: 1px solid #000;
+left: 850px;
+top: -200px;
+font-style:italic;
+}
+
+#TituloGrado{
+position: relative;
+left: 850px;
+top:  -200px;
+font-style:italic;
+color: burlywood;
+}
+
+
+#TextoEliminarVertice{
+width: 150px;
+height: 30px;	
+text-align: center;
+border-radius: 1px 2px 3px;
+border: 1px solid #000;
+position: relative;
+left: 20px;
+top: -150px;
+font-style:italic;
+background-color: gray;
+}
+ 
+#EliminarVertice{
+width: 150px;
+position: relative;
+bottom: 20px;
+height: 35px;
+border: 1px solid #000;
+left: 20px;
+top: -150px;
+font-style:italic;	
+}
+
+#TituloELiminarVertice{
+position: relative;
+left: 25px;
+top:  -150px;	
+font-style:italic;
+color: burlywood;
+}
+
+
+#TextoELiminarArista{
+width: 150px;
+height: 30px;	
+text-align: center;
+border-radius: 1px 2px 3px;
+border: 1px solid #000;
+position: relative;
+left: 25px;
+top: -155px;
+font-style:italic;
+background-color: gray;
+}
+
+#TituloELiminarArista{
+position: relative;
+left: 25px;
+top:  -155px;
+font-style:italic;	
+color: burlywood;
+}
+ 
+#TextoEliminarArista1{
+width: 150px;
+height: 30px;	
+text-align: center;
+border-radius: 1px 2px 3px;
+border: 1px solid #000;
+position: relative;
+left: 20px;
+top: -165px;	
+font-style:italic;
+background-color: gray;
+}
+
+#TextoEliminarArista2{
+width: 150px;
+height: 30px;	
+text-align: center;
+border-radius: 1px 2px 3px;
+border: 1px solid #010204Ca;
+position: relative;
+left: 20px;
+top: -160px;	
+font-style:italic;
+background-color: gray;
+}
+
+#EliminarArista{
+width: 150px;
+position: relative;
+bottom: 20px;
+height: 35px;
+border: 1px solid #000;
+left: 20px;
+top: -175px;	
+font-style:italic;
+}
+
+#TituloVerVertice{
+position: relative;
+left: 850px;
+top: -100px;
+font-style:italic;	
+color: burlywood;
+}
+
+
+#TextoVerVertice{
+width: 150px;
+height: 30px;	
+text-align: center;
+border-radius: 1px 2px 3px;
+border: 1px solid #010204Ca;
+position: relative;
+left: 850px;
+top: -100px;	
+font-style:italic;
+background-color: gray;
+}
+
+#AgregarVertice{
+width: 150px;
+position: relative;
+bottom: 20px;
+height: 35px;
+border: 1px solid #000;
+left: 850px;
+top: -100px;	
+font-style:italic;
+
+}
+
+ body{
+	background: url(fondo4.png) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+}
+
